@@ -1,0 +1,2 @@
+include ':app', ':basemvvmlibrary2'
+rootProject.name='MyMVVMApplication'
